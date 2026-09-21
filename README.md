@@ -1,4 +1,4 @@
-# HerFlow-Data-Project
+# BintiFlow-Data-Project
 
 Data, planning, and project management work for HerFlow — an initiative providing sanitary products to girls who lack access to them, so they don't have to miss school because of their period.
 
